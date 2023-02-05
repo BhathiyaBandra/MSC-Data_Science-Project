@@ -1,1 +1,4 @@
-https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics?select=telecom_customer_churn.csv
+Dataset link: https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
+Author: ENRIQUE RUIZ in mavenanalytics (https://www.mavenanalytics.io/blog/maven-churn-challenge)
+Attributes and explantions: Include in the Resource/telecom_data_dictionary.csv file
+Project Github link: https://github.com/BhathiyaBandra/MSC-Data_Science-Project
